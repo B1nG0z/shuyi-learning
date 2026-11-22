@@ -1,0 +1,4 @@
+interface:
+  display_name: "数一笔记"
+  short_description: "考研数学一系统学习、交互讲题、错题诊断与章末折页生成助手"
+  default_prompt: "使用 $shuyi-learning 按照我提供的教材章节或课程课时开始本章学习，并根据我的练习表现调整教学。"

@@ -1,0 +1,15 @@
+# 本地安装元数据（WorkBuddy 写入，与技能内容无关）
+_user_meta.json
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 技能目录内禁止留存的临时产物与备份（见 SPEC.md §9）
+*.bak
+*.tmp
+.tmp/
+_backup/
+_backup_*/
+副本/
